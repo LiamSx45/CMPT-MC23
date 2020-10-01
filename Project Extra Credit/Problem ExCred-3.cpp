@@ -1,4 +1,4 @@
-// CMPT101 Extra Credit, ExCred1-3.cpp 
+// CMPT101 Extra Credit, ExCred-3.cpp 
 // Purpose: Show even/odd numbers and sum
 // Programmer: Liam Sawyer 
 // Date: 11/22/2019 
